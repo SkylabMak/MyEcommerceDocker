@@ -1,0 +1,4 @@
+.env
+.vscode
+forntendOS/node_modules/
+backendOS/node_modules/

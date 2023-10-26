@@ -1,0 +1,3 @@
+cd frontendOS
+npm install <to install library>
+npm run dev <to run test server>
