@@ -15,7 +15,7 @@ export default function ItemCard({ val }) {
           <div>
             <h3 className="text-base text-black capitalize">
 
-              <a className='text-black  font-semibold' onClick={() => setShowModal(true)}>
+              <a className=' text-black  font-semibold' onClick={() => setShowModal(true)}>
                 <span aria-hidden="true" className="absolute inset-0"></span>
                 {val.ProductName}
               </a>

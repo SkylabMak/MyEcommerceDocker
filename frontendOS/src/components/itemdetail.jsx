@@ -47,7 +47,7 @@ export default function ItemDetail({ val }) {
                 </div>
                 <div className="py-4 px-8">
                     <div className="cartName flex justify-between">
-                        <h3 className="text-xl font-medium mb-2 capitalize ">{val.ProductName}</h3>
+                        <h3 className="text-xl text-black font-medium mb-2 capitalize ">{val.ProductName}</h3>
                         <span className="font-normal text-2xl ">${val.price}</span>
                     </div>
 
